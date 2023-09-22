@@ -32,7 +32,7 @@ def destroy():
     
 
 while True:
-    time.sllep(5)
+    time.sleep(5)
     setup()
     sqs_client = boto3.client("sqs",aws_access_key_id=akey,aws_secret_access_key=skey,region_name=region)
     queue='give queue url'
