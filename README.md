@@ -1,2 +1,2 @@
 # aws_boto3
-Code snippets for uploading accessing to AWS s3 bucket
+Code snippets for SQS operations and S3 operations
